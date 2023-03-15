@@ -7,3 +7,5 @@ The objective of this project was to help Sticker improve its customer retention
 This will help the Sticker develop a communication plan that would guide customer success and identify expansion targets and churn risks. Also help marketing to identify the company's best and least performing industry so as to channel its marketing campaigns accordingly. The project objective was to provide Sticker with a comprehensive plan to improve customer retention, and ensure that its customers remain happy and loyal, and improve marketing campaign efforts.
 
 For this project, I analyzed subscriber data using PostgreSQL. Here is the database schema:
+
+![CS Schema](https://user-images.githubusercontent.com/126607220/225268668-cba2bc8a-c4a0-42b7-a720-1184deab3af1.jpg)
