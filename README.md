@@ -1,6 +1,6 @@
 # INTRODUCTION
 
-![csegment2](https://user-images.githubusercontent.com/126607220/225266990-2d751dd9-b407-41d8-a851-4485865a425d.jpg)
+![csegment2](https://user-images.githubusercontent.com/126607220/225268261-3bc25a16-d197-446f-aa3c-f37bdd7fe151.jpg)
 
 
 The objective of this project was to help Sticker improve its customer retention rate by 9 percentage points, from 88% to 97%. The organization is a software company that provides a range of solutions to help businesses manage their operations. Despite having a high retention rate, the organization was concerned about the current economic climate and the potential risk of losing customers with a big budget. To tackle this challenge, I was tasked with analysis the current customer data, group them according to their industry, segmented them into four quadrants based on annual revenue and subscription value.
