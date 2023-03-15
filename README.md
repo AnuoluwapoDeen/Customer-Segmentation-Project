@@ -18,9 +18,9 @@ KEY FINDINGS
 
 After analyzing the data, I have discovered the following insights:
 
-1. The Combo bundle was popular among the industry buyers.
-2. The Apps product was purchased as a single product by the industry.
-3. The majority of subscribers were Platinum, Gold, Silver, and Bronze members.
+1. The industries with the most Combo bundle buyers.
+2. The industries with the most app (single product) buyers.
+3. After segmentation, the industry with most Platinum, Gold, Silver, Bronze subscribers.
 4. The number of subscriptions purchased per year varied across different industries.
 5. The smallest and largest deal sizes, the product purchased, the subscriber's industry, and the year of subscription purchase were identified.
 6. The year with the highest number of subscriptions sold was determined.
