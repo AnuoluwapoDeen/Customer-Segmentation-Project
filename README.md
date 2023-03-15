@@ -8,4 +8,4 @@ This will help the Sticker develop a communication plan that would guide custome
 
 For this project, I analyzed subscriber data using PostgreSQL. Here is the database schema:
 
-![CS Schema](https://user-images.githubusercontent.com/126607220/225268668-cba2bc8a-c4a0-42b7-a720-1184deab3af1.jpg)
+![CS Schema](https://user-images.githubusercontent.com/126607220/225269227-7c6e6ac3-425e-4b88-97a2-8456bbdbe3dc.jpg)
