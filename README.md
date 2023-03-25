@@ -6,7 +6,7 @@
 This project aimed to help Sticker improve its customer retention rate by nine percentage points, from 88% to 97%. The organization is a software company that provides various solutions to help businesses manage their operations. Despite having a high retention rate, the organization was concerned about the current economic climate and the potential risk of losing customers with a big budget. To tackle this challenge, I was tasked with analyzing the current customer data, grouping them according to their industry, segmented them into four quadrants (Platinum, Gold, Silver, Bronze subscribers) based on annual revenue and subscription value.
 This will help Sticker develop a communication plan to guide customer success and identify expansion targets and churn risks. Also, help marketing to identify the company's best and least performing industry to channel its marketing campaigns accordingly. The project objective was to provide Sticker with a comprehensive plan to improve customer retention, ensure its customers remain happy and loyal and improve marketing campaign efforts.
 
-For this project, I analyzed subscriber data using PostgreSQL. Here is the database schema:
+For this project, I analyzed subscriber data using MySQL. Here is the database schema:
 
 ![CS Schema](https://user-images.githubusercontent.com/126607220/225269227-7c6e6ac3-425e-4b88-97a2-8456bbdbe3dc.jpg)
 
